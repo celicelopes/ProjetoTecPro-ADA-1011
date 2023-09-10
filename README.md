@@ -9,7 +9,7 @@ Você trabalha em uma consultoria de dados que foi contratada para realizar a di
 
 ## Como produto final, você deve entregar:
 
-* um arquivo csv no qual as linhas já estarão ordenas de acordo com a rota a ser seguida. Além disso, os dados devem estar no padrão especificado abaixo e contendo as seguintes colunas: id da escola, nome da escola, tipo da escola (EM, CIEP ou colégio), logradouro da entrega, número, bairro, subprefeitura, latitude, longitude e quantidade de mat erial didático que deve ser entregue. O logradouro da escola deve estar em uma coluna diferente do número;
+* um arquivo csv no qual as linhas já estarão ordenas de acordo com a rota a ser seguida. Além disso, os dados devem estar no padrão especificado abaixo e contendo as seguintes colunas: id da escola, nome da escola, tipo da escola (EM, CIEP ou colégio), logradouro da entrega, número, bairro, subprefeitura, latitude, longitude e quantidade de material didático que deve ser entregue. O logradouro da escola deve estar em uma coluna diferente do número;
 * um arquivo csv com a quantidade total de material escolar por subprefeitura para que sejam contabilizados os custos por subprefeitura
 
 ## Como padrão dos dados, considere:
@@ -32,5 +32,5 @@ Obs: O otimizador não é a parte mais importante do projeto. Foque no tratament
 ### Grupo 2:
  - [Celice Lopes](https://github.com/celicelopes/)
  - [Isaac]()
- - [João L B Manetti]()
+ - [João L B Manetti](https://github.com/jlbmanetti/)
  - [Pedro Teixeira]()
